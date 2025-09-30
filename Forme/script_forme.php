@@ -41,8 +41,6 @@ if ($type=="cornice") {
 }
 
 ?>
-<button>
     <a href="pagina_forme.html">
         indietro
     </a>
-</button>
